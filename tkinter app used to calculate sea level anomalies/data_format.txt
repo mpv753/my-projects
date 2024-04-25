@@ -1,0 +1,4 @@
+Input data format
+
+Latitude(decimal degrees),Longitude(decimal degrees),Sea level anomaly values(meters), sea level anomaly values accuracy(cm) (optional)
+
